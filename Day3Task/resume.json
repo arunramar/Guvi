@@ -1,0 +1,55 @@
+{
+    "name": "ArunkumarPandyan Ramar",
+    "title": "Web Content Management Professional",
+    "summary": "Arunkumar is a Senior IT Professional with more than 20 years of information technology industry experience that includes more than 7 years hands on experience in design, development and implementation of Content Management and Portal solutions using Oracle WebCenter Product Suite. Arun Ramar has excellent communication, leadership and project management skills",
+    "experience": [
+        {
+            "company": "onwardpath technology solutions",
+            "date":{
+                "from":"Jan 2020",
+                "to": "present"
+            } ,
+            "job title": "AEM Practice Lead",
+            "summary":"Principal Evangelist for Adobe Marketing Cloud solution implementation"
+        },
+        {
+            "company": "Associated Bank",
+            "date":{
+                "from":"April 2018",
+                "to": "Dec 2019"
+            } ,
+            "job title": "Solution Architect & Senior Developer",
+            "summary":" As a Solution Architect, I was involved in the design, development and implementation of many WebCenter Sites related projects."
+        },
+        {
+            "company": "Anthem Inc., ",
+            "date":{
+                "from":"Sep 2017",
+                "to": "Mar 2018"
+            } ,
+            "job title": "WebCenter Developer",
+            "summary":"Assisted in stabilizing the Oracle WebCenter portal environment. Worked on the Framework to eliminate bugs that affected the functionality of Oracle WebCenter Portal"
+        }
+    ],
+    "education": [
+        {
+            "under-graduate" : "Bachelor of Engineering",
+            "specialization" : "Electronics & Communication",
+            "year": "1992"
+
+        }      
+    ],
+    "certification":[
+        {
+        "cert-name":"Graduate Certificate in Enterprise Resource Planning Systems (SAP)",
+        "institution": "Victoria University, Australia ",
+        "year":"Jan 2015"
+    }
+    {
+        "cert-name":"Oracle Certified Professional Certification Training",
+        "institution":"oracle",
+        "year":"july 2003"
+    }
+
+]
+}
